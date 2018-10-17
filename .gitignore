@@ -2,11 +2,11 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+.dddddd
 # C extensions
-*.so
-
-# Distribution / packaging
+*。所以
+。
+＃分销/包装
 .Python
 env/
 build/
